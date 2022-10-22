@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Zubad
+- Hi, 👋  I’m <h1>Zubad!</h1>
+
 - 👀 I’m interested in Web Development and Python Frameworks like Django and Flask.
 - 🌱 I’m currently learning MERN Stack Development.
 -  In past I have worked on Django based projects including a Learning Management System and Lecture Scheduling System.
