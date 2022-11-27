@@ -8,4 +8,4 @@
 - You can also check my stackoverflow account @ https://stackoverflow.com/users/8736227/zubad-ibrahim.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zubad&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zubad&show_icons=true&theme=radical)
