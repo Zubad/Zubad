@@ -1,4 +1,4 @@
-- Hi, 👋  I’m <h1>Zubad!</h1>
+- Hi, 👋  I’m <h3>Zubad!</h3>
 
 - 👀 I’m interested in Web Development and Python Frameworks like Django and Flask.
 - 🌱 I’m currently learning MERN Stack Development.
