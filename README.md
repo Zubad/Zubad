@@ -7,6 +7,5 @@
 - 📫 You can email me @ "zubad.ali95@gmail.com" and can connect with me on linkedin @ https://www.linkedin.com/in/zubad-ibrahim-232b73b0/.
 - You can also check my stackoverflow account @ https://stackoverflow.com/users/8736227/zubad-ibrahim.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zubad)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zubad&show_icons=true)
